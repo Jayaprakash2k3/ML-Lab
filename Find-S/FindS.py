@@ -12,6 +12,5 @@ data = [
     ['Rainy', 'Cold', 'High', 'Strong', 'Warm', 'Change', 'No'],
     ['Sunny', 'Warm', 'High', 'Strong', 'Cool', 'Change', 'Yes']
 ]
-
 hypothesis = find_s_algorithm(data)
 print(hypothesis)
