@@ -10,10 +10,10 @@
   </tr>
   <tr>
     <td>Find S</td>
-    <td><input checked type="checkbox"></td>
-    <td><input type="checkbox"></td>
-    <td><input type="checkbox"></td>
-    <td><input checked type="checkbox"></td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>✅</td>
 
   </tr>
   
