@@ -169,3 +169,6 @@
     party
     dplyr
     magrittr
+    e1071
+    tm
+    slam
