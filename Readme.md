@@ -22,11 +22,18 @@
     <td>❌</td>
     <td>✅</td>
   </tr>
-      <tr>
+  <tr>
     <td>ID3</td>
     <td>❌</td>
     <td>✅</td>
     <td>❌</td>
+    <td>❌</td>
+  </tr>
+  <tr>
+    <td>Back Propogation</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>✅</td>
     <td>❌</td>
   </tr>
 </table>
