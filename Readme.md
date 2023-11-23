@@ -4,9 +4,9 @@
   <tr>
     <th>Experiment Name</th>
     <th>R Tool</th>
-    <th>Scikit Learn</th>
+    <th>Sci-kit Learn</th>
     <th>Pytorch</th>
-    <th>No Library </th>
+    <th>Without Library </th>
   </tr>
   <tr>
     <td>Find S</td>
@@ -14,7 +14,80 @@
     <td>❌</td>
     <td>❌</td>
     <td>✅</td>
-
   </tr>
-  
+    <tr>
+    <td>Candidate Elimination</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>✅</td>
+  </tr>
 </table>
+
+# Environment Dependency
+
+## Python
+
+    asttokens
+    certifi
+    charset-normalizer
+    click
+    colorama
+    comm
+    contourpy
+    cycler
+    debugpy
+    decorator
+    executing
+    filelock
+    fonttools
+    fsspec
+    hmmlearn
+    huggingface-hub
+    id
+    ipykernel
+    ipython
+    jedi
+    joblib
+    jupyter_client
+    jupyter_core
+    kiwisolver
+    matplotlib
+    matplotlib-inline
+    nest-asyncio
+    nltk
+    numpy
+    packagi
+    pandas
+    parso
+    Pillow
+    platformdirs
+    prompt-toolkit
+    psutil
+    pure-eval
+    Pygments
+    pyparsing
+    python-dateutil
+    pytz
+    PyYAML
+    pyzmq
+    regex
+    requests
+    safetensors
+    scikit-learn
+    scipy
+    six
+    stack-data
+    textblob
+    threadpoolctl
+    tokenizers
+    tornado
+    tqdm
+    traitlets
+    transformers
+    typing_extensions
+    tzda
+    urllib3
+    wcwidth
+    torch
+    tensorflow
