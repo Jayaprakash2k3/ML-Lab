@@ -50,6 +50,48 @@
     <td>❌</td>
     <td>✅</td>
   </tr>
+    <tr>
+    <td>SVM</td>
+    <td>❌</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
+  </tr>
+      <tr>
+    <td>HMM</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>Kmeans</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>✅</td>
+  </tr>
+    <tr>
+    <td>Q Learning</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>✅</td>
+  </tr>
+      <tr>
+    <td>Sentimental Analysis</td>
+    <td>❌</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
+  </tr>
+      <tr>
+    <td>Chat Bot</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>❌</td>
+    <td>✅</td>
+  </tr>
 </table>
 
 # Environment Dependency
