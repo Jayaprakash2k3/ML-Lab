@@ -22,6 +22,13 @@
     <td>❌</td>
     <td>✅</td>
   </tr>
+      <tr>
+    <td>ID3</td>
+    <td>❌</td>
+    <td>✅</td>
+    <td>❌</td>
+    <td>❌</td>
+  </tr>
 </table>
 
 # Environment Dependency
@@ -91,3 +98,11 @@
     wcwidth
     torch
     tensorflow
+
+## R tool
+
+    datasets
+    caTools
+    party
+    dplyr
+    magrittr
